@@ -1,8 +1,10 @@
 # Resumen de la presentación
 
 ## Programación Imperativa vs. Funcional:
-### Imperativa: Se caracteriza por ser más explícita y detallada en el control del flujo del programa, utilizando mutabilidad y funciones sencillas.
-### Funcional: Se enfoca en la inmutabilidad, utiliza funciones predefinidas, y es adecuada para transformaciones complejas como en big data, aunque tiene una curva de aprendizaje más pronunciada y puede implicar un mayor consumo de memoria.
+### Imperativa: 
+Se caracteriza por ser más explícita y detallada en el control del flujo del programa, utilizando mutabilidad y funciones sencillas.
+### Funcional: 
+Se enfoca en la inmutabilidad, utiliza funciones predefinidas, y es adecuada para transformaciones complejas como en big data, aunque tiene una curva de aprendizaje más pronunciada y puede implicar un mayor consumo de memoria.
 
 ## Consideraciones de la Programación Funcional:
 * Las funciones puras permiten paralelización.
@@ -11,9 +13,12 @@
 * Curva de aprendizaje más alta en comparación con la programación imperativa.
 
 ## Comparación con Otros Paradigmas:
-### Imperativa: Control detallado del flujo del programa.
-### Funcional: Ideal para transformaciones complejas y procesamiento continuo de datos.
-### POO (Programación Orientada a Objetos): Enfocada en modelos con interacción, común en entornos empresariales.
+### Imperativa: 
+Control detallado del flujo del programa.
+### Funcional: 
+Ideal para transformaciones complejas y procesamiento continuo de datos.
+### POO (Programación Orientada a Objetos): 
+Enfocada en modelos con interacción, común en entornos empresariales.
 
 ## Ejemplo Práctico:
 Se presenta un ejemplo donde se define una lista de números, se filtran los números pares, se elevan al cuadrado y se realiza la suma de ellos, con una salida esperada de "Suma de cuadrados de números pares: 220".
